@@ -1,2 +1,2 @@
 # Quantum-Applications
-Testing of possible applications for quantum algorithms
+Testing possible applications for quantum algorithms
